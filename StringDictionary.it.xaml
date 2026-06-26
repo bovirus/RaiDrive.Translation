@@ -2,7 +2,7 @@
                     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
                     xmlns:system="clr-namespace:System;assembly=mscorlib">
 	<x:Array x:Key="Contributors" Type="system:String">
-		<system:String>bovirus gabrigli</system:String>
+		<system:String>bovirus e gabrigli</system:String>
 	</x:Array>
 	<system:String x:Key="Language.English">Italian</system:String>
 	<system:String x:Key="Language.Native">italiano</system:String>
