@@ -9,7 +9,7 @@
 	<system:String x:Key="Language.Tags">it</system:String>
 
 	<system:String x:Key="Messages.ApplyOnCopyMoveRename">Si applica quando si copia, si sposta o si rinominano file e cartelle.</system:String>
-	<system:String x:Key="Messages.Cache.FolderNotSupport">La cartella cache deve essere una cartella nell'unità disco locale. Non sono supportate le unità di rete</system:String>
+	<system:String x:Key="Messages.Cache.FolderNotSupport">La cartella cache deve essere una cartella nell'unità disco locale. Non sono supportate le unità di rete.</system:String>
 	<system:String x:Key="Messages.CheckAddress">Controlla l'indirizzo.</system:String>
 	<system:String x:Key="Messages.CheckPort">Controlla la porta {0}.</system:String>
 	<system:String x:Key="Messages.CheckProtocolPort">Ricontrolla il protocollo {0} e la porta {1}.</system:String>
@@ -275,7 +275,7 @@
 	<system:String x:Key="Words.Remove">Rimuovi</system:String>
 	<system:String x:Key="Words.Retry">Riprova</system:String>
 	<system:String x:Key="Words.SASLSAF.Repository">Repository</system:String>
-	<system:String x:Key="Words.SASLSAF.Workspace">Spazio lavoro</system:String>
+	<system:String x:Key="Words.SASLSAF.Workspace">Workspace</system:String>
 	<system:String x:Key="Words.Save">Salva</system:String>
 	<system:String x:Key="Words.Second">secondo</system:String>
 	<system:String x:Key="Words.Seconds">secondi</system:String>
